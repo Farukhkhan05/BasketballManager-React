@@ -3,7 +3,7 @@ import React from 'react'
 const FirstQuarter = () => {
     return (
         <>
-            <div>
+            <div className ="first_quarter">
                 <form>
                     <ol>
                         <li>
